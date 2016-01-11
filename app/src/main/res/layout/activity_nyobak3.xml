@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.achmadfathullah.memorize.Nyobak3">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        >
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="170dp"
+            android:background="#A2BCC9"
+            android:id="@+id/atas"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="40dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="80dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginLeft="170dp"
+            android:layout_marginTop="120dp"
+            android:background="#A2BCC9"
+            />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="170dp"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="20dp"
+            android:layout_marginTop="10dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="#A2BCC9"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:background="#A2BCC9"
+            />
+    </LinearLayout>
+
+
+</RelativeLayout>
