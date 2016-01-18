@@ -43,8 +43,10 @@ public class MainActivity extends AppCompatActivity  {
                                 Intent i = new Intent(getApplicationContext(), Kumpulan_project_rimbunesia.class);
                                 startActivity(i);
 
+
                             }
                         });
+
                         alert.create();
                         alert.show();
                     } else {

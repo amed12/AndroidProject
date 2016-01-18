@@ -31,6 +31,8 @@
         </activity>
         <activity android:name=".Kumpulan_project_rimbunesia" >
         </activity>
+        <activity android:name=".Recycler_view" >
+        </activity>
     </application>
 
 </manifest>

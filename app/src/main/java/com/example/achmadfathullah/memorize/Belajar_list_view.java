@@ -1,7 +1,6 @@
 package com.example.achmadfathullah.memorize;
 
 import android.app.ListActivity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -17,14 +16,14 @@ public class Belajar_list_view extends ListActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         //setContentView(R.layout.activity_belajar_list_view);
-        next = (Button) findViewById(R.id.next);
+        /*next = (Button) findViewById(R.id.next);
         next.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent i = new Intent(getApplicationContext(), Belajar_list_view_2.class);
                 startActivity(i);
             }
-        });
+        });*/
         isColorArray = false;
 
         ArrayAdapter myArrayAdapter;

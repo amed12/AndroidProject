@@ -37,6 +37,8 @@
         </activity>
         <activity android:name="com.example.achmadfathullah.memorize.Kumpulan_project_rimbunesia" >
         </activity>
+        <activity android:name="com.example.achmadfathullah.memorize.Recycler_view" >
+        </activity>
     </application>
 
 </manifest>
