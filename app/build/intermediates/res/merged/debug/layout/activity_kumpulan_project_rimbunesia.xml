@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.achmadfathullah.memorize.Kumpulan_project_rimbunesia">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tutorial1"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="20dp"
+        android:text="Tutorial 1 : Layout"
+        android:textColor="#123879">
+    </Button>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Berikut adalah hasil belajar selama di Rimbunesia"
+        android:textSize="12pt"
+        android:background="#0078D7"
+        android:textColor="#FFFFFF"
+        android:textAlignment="center"
+        >
+
+    </TextView>
+
+</RelativeLayout>
+<!-- From: file:/E:/rimbunesia/memorize/app/src/main/res/layout/activity_kumpulan_project_rimbunesia.xml -->

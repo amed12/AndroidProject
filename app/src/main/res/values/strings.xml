@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">MemorizeQuran</string>
+    <array name="DatakuArray">
+    <item>Black</item>
+    <item>Yellow</item>
+    <item>Pink</item>
+    <item>Red</item>
+    <item>Orange</item>
+    <item>White</item>
+    <item>Bluew</item>
+    <item>Green</item>
+    </array>
 </resources>

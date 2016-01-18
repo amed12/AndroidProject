@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- From: file:/E:/rimbunesia/memorize/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <array name="DatakuArray">
+    <item>Black</item>
+    <item>Yellow</item>
+    <item>Pink</item>
+    <item>Red</item>
+    <item>Orange</item>
+    <item>White</item>
+    <item>Bluew</item>
+    <item>Green</item>
+    </array>
     <!-- From: file:/E:/rimbunesia/memorize/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
@@ -235,6 +247,7 @@
     </style>
     <style name="AppTheme.NoActionbar" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
+
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

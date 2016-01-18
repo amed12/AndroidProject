@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:3:5-51
 		INJECTED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml
 		INJECTED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml
 application
-ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:5:5-28:19
+ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:5:5-34:19
 MERGED from [com.android.support:appcompat-v7:23.0.1] E:\rimbunesia\memorize\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.0.1] E:\rimbunesia\memorize\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\AndroidManifest.xml:22:5-20
 	android:label
@@ -61,6 +61,18 @@ activity#com.example.achmadfathullah.memorize.Belajar_login
 ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:26:9-27:20
 	android:name
 		ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.achmadfathullah.memorize.Belajar_list_view
+ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:28:9-29:20
+	android:name
+		ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:28:19-52
+activity#com.example.achmadfathullah.memorize.Belajar_list_view_2
+ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:30:9-31:20
+	android:name
+		ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:30:19-54
+activity#com.example.achmadfathullah.memorize.Kumpulan_project_rimbunesia
+ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:32:9-33:20
+	android:name
+		ADDED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml:32:19-62
 uses-sdk
 INJECTED from E:\rimbunesia\memorize\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.0.1] E:\rimbunesia\memorize\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\AndroidManifest.xml:20:5-43
